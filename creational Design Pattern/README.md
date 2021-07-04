@@ -4,5 +4,5 @@ These patterns provide various object creation mechanism, which increases flexib
 
 1. [Singleton Design Pattern](Singleton/README.md)
 2. [Prototype Design Pattern](Prototype/README.md)
-3. [Factory Design Pattern](factory/README.md)
+3. [Factory Design Pattern](Factory/README.md)
 4. [Builder Design pattern]
